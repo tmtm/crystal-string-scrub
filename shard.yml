@@ -1,0 +1,9 @@
+name: string-scrub
+version: 0.1.0
+
+authors:
+  - TOMITA Masahiro <tommy@tmtm.org>
+
+description: |
+  add String#scrub and String#valid_encoding?
+license: MIT
